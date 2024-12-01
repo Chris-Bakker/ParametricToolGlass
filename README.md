@@ -1,9 +1,9 @@
 # ReGlass: Parametric Tool for Sustainable Glass Reuse
 
-**ReGlass** is a parametric tool developed during my bachelor thesis at TU Delft. This project addresses the reuse of naturally aged flat glass to create double-insulated windows which contributing to sustainable practices in construction.
+**ReGlass** is a parametric tool developed during my bachelor thesis at TU Delft. This project addresses the reuse of naturally aged flat glass to create double-insulated windows.
 
 ## Key Features
-- **Dynamic Design**: Adjusts window dimensions dynamically to account for constraints such as thickness, strength, and pre-existing dimensions.
+- **Dynamic Design**: Adjusts window dimensions dynamically to account for constraints such as thickness, strength and pre-existing dimensions.
 - **Engineering Standards**: Integrates principles from standards like NEN 2608 and NEN-EN 1991 for structural compliance.
 - **Sustainability**: Promotes the circular use of glass, reducing environmental impact.
 
